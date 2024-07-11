@@ -1,5 +1,9 @@
 # Crawling Data Project
-+ Crawl data from a website, then save them as CSV and JSON files.
-+ Use PySpark to processing data
+
+This project includes 3 parts:
++ Collect data from a website and save it as CSV and JSON files
++ Read and process data using PySpark
 + Load processed data into MySQL database
+
+
   
