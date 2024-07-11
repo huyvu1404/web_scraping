@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  mysql:
+    image: mysql:latest
+    container_name: mysql_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: tgdd
+    ports:
+      - "13308:3306"
