@@ -10,8 +10,7 @@ This project involves scraping data from e-commerce websites and storing it in J
 - **Database Loading**: Load processed data into a MySQL database for further analysis and utilization.
 ## Languages:
 - **Python**
-## Libraries:
-- **Python**
+## Packages:
 - **Pandas**
 - **Selenium**
 - **Beautiful Soup**
