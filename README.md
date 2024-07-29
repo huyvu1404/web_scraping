@@ -1,4 +1,4 @@
-# Scraping Data Project
+# Web Scraping Project
 
 ## Introduction
 This project involves scraping data from a website and storing it in JSON and CSV formats. The scraped data is then read and processed using PySpark to perform various transformations and analyses. The processed data is saved in JSON format and loaded into a MySQL database for further use and analysis.
