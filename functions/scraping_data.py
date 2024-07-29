@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-def crawl_laptop_data():
+def scrape_laptop_data():
     driver = webdriver.Chrome()
     url = f"https://www.thegioididong.com/laptop"
     based_url = "https://www.thegioididong.com"
@@ -71,7 +71,7 @@ def crawl_laptop_data():
 
     return laptops
     
-def crawl_tablet_data():
+def scrape_tablet_data():
     driver = webdriver.Chrome()
     url = f"https://www.thegioididong.com/may-tinh-bang"
     based_url = "https://www.thegioididong.com"
@@ -133,7 +133,7 @@ def crawl_tablet_data():
     return tablets
 
 
-def crawl_phone_data():
+def scrape_phone_data():
     driver = webdriver.Chrome()
     url = f"https://www.thegioididong.com/dtdd"
     based_url = "https://www.thegioididong.com"
