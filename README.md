@@ -5,18 +5,17 @@ This project involves scraping data from e-commerce websites and storing it in J
 
 ## Main Tasks
 - **Web Scraping**: Scrape data from e-commerce websites and save it in JSON and CSV formats.
-- **Data Processing**: Read the JSON files and process the data using PySpark.
-- **Data Storage**: Save the processed data in JSON format.
-- **Database Loading**: Load the processed data into a MySQL database for further analysis and utilization.
-
-## Technologies/Languages
-- **Python**: The primary programming language used for web scraping and data processing.
-- **PySpark**: Used for processing and transforming the data.
-- **MySQL**: The database used for storing the processed data.
-
-## Libraries
-- **BeautifulSoup**: For web scraping.
-- **Requests**: For sending HTTP requests to the websites.
-- **PySpark**: For data processing and transformation.
-- **pandas**: For data manipulation and conversion between JSON and CSV formats.
-- **SQLAlchemy**: For interacting with the MySQL database.
+- **Data Processing**: Read the JSON files and process data using PySpark.
+- **Data Storage**: Save processed data in JSON format.
+- **Database Loading**: Load processed data into a MySQL database for further analysis and utilization.
+## Languages:
+- **Python**
+## Libraries:
+- **Python**
+- **Pandas**
+- **Selenium**
+- **Beautiful Soup**
+- **Spark**
+- **MySQL Connector & SQLAlchemy**
+## Databases:
+- **MySQL**
