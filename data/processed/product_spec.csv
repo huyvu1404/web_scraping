@@ -1,0 +1,166 @@
+ProductID,Name,Core,RAM,SSD,Screen
+1,ASUS Zenfone Max ,NULL,NULL,NULL,"HD+ 6.26"""""
+2,Benco 4G G3Mẫu mới,NULL,NULL,NULL,"QQVGA 1.77"""""
+3,HONOR 200 5G,NULL,NULL,NULL,"1.5K 6.7"""""
+4,HONOR 90 5G 12GB/256GB,NULL,NULL,NULL,"1.5K 6.7"""""
+5,HONOR X5 Plus 4GB/64GB,NULL,NULL,NULL,"HD+ 6.56"""""
+6,HONOR X6a 4GB/128GB,NULL,NULL,NULL,"HD+ 6.56"""""
+7,HONOR X6b,NULL,NULL,NULL,"HD+ 6.56"""""
+8,HONOR X7c 8GB/256GBMẫu mới,NULL,NULL,NULL,"HD+ 6.77 """""
+9,HONOR X8b 8GB/512GB,NULL,NULL,NULL,"Full HD+ 6.7"""""
+10,Itel it2600,NULL,NULL,NULL,"QVGA 2"""""
+11,Itel it9211,NULL,NULL,NULL,"2.4"""""
+12,Itel it9310,NULL,NULL,NULL,"3"""""
+13,Lenovo Gaming LOQ 15ARP9 ,R7 7435HS ,24,512,NULL
+14,Lenovo Gaming LOQ 15IAX9 ,i5 12450HX ,24,512,NULL
+15,Lenovo Gaming LOQ 15IAX9 ,i5 12450HX ,16,512,NULL
+16,Lenovo Gaming LOQ 15IAX9 ,i5 12450HX ,24,512,NULL
+17,Lenovo Gaming LOQ 15IRX9 ,i7 13650HX ,16,512,NULL
+18,Lenovo Gaming Legion 5 16IRX9 ,i7 14650HX ,16,1024,NULL
+19,Lenovo Gaming Legion Pro 5 16IRX9 ,i9 14900HX ,32,1024,NULL
+20,Lenovo Gaming Legion Pro 5 16IRX9 ,i9 14900HX ,32,1024,NULL
+21,Lenovo Gaming Legion Pro 7 16IRX9H ,i9 14900HX ,32,1024,NULL
+22,Lenovo Gaming Legion Slim 5 16AHP9 ,R7 8845HS ,32,1024,NULL
+23,Lenovo IdeaPad 1 15AMN7 ,R5 7520U ,8,256,NULL
+24,Lenovo IdeaPad Slim 5 14IMH9 ,Ultra 7 155H ,32,1024,NULL
+25,Lenovo IdeaPad Slim 5 14IMH9 ,Ultra 5 125H ,16,512,NULL
+26,Lenovo Ideapad 1 15ALC7 ,R7 5700U ,16,512,NULL
+27,Lenovo Ideapad Slim 3 15AMN8 ,R5 7520U ,16,512,NULL
+28,Lenovo Ideapad Slim 3 15IAH8 ,i5 12450H ,16,512,NULL
+29,Lenovo Ideapad Slim 3 15IRH8 ,i7 13620H ,16,1024,NULL
+30,Lenovo Ideapad Slim 5 14IAH8 ,i5 12450H ,16,1024,NULL
+31,Lenovo Ideapad Slim 5 14IMH9 ,Ultra 7 155H ,32,512,NULL
+32,Lenovo Ideapad Slim 5 15IRU9 ,Core 5 120U ,16,512,NULL
+33,Lenovo Ideapad Slim 5 16IMH9 ,Ultra 7 155H ,32,512,NULL
+34,Lenovo Ideapad Slim 5 16IMH9 ,Ultra 5 125H ,16,512,NULL
+35,Lenovo Tab ,NULL,NULL,NULL,"IPS LCD 10.95"""""
+36,Lenovo Tab ,NULL,NULL,NULL,"IPS LCD 10.95"""""
+37,Lenovo Tab ,NULL,NULL,NULL,"IPS LCD 10.95"""""
+38,Lenovo Tab ,NULL,NULL,NULL,"IPS LCD 10.95"""""
+39,Lenovo Tab ,NULL,NULL,NULL,"IPS LCD 9"""""
+40,Lenovo Tab ,NULL,NULL,NULL,"IPS LCD 9"""""
+41,Lenovo Tab Plus WiFi 8GB/256GB,NULL,NULL,NULL,"IPS LCD 11.5"""""
+42,Lenovo ThinkBook 14 ,Ultra 7 155U ,16,512,NULL
+43,Lenovo ThinkBook 16 G7 ,Ultra 5 125U ,16,512,NULL
+44,Lenovo ThinkPad E14 Gen 6 ,Ultra 7 155U ,16,512,NULL
+45,Lenovo ThinkPad T14s ,i7 1355U ,32,512,NULL
+46,Lenovo Thinkpad X13 ,Ultra 7 155H ,32,1024,NULL
+47,Lenovo Thinkpad X13 ,Ultra 5 125U ,16,512,NULL
+48,Lenovo V14 ,Core 5 120U ,16,512,NULL
+49,Lenovo V14 G4 ,i7 1355U ,16,512,NULL
+50,Lenovo V15 G4 IRU ,i5 1335U ,16,512,NULL
+51,Lenovo V15 G5 IRL ,Core 5 120U ,16,512,NULL
+52,Lenovo Yoga Slim 7 14IMH9 ,Ultra 7 155H ,32,1024,NULL
+53,Masstel Fami 50 4G,NULL,NULL,NULL,"QQVGA 2"""""
+54,Masstel Fami 60S 4G,NULL,NULL,NULL,"QVGA 2"""""
+55,Masstel IZI 10 4G,NULL,NULL,NULL,"QQVGA 1.77"""""
+56,Masstel IZI T6 4G,NULL,NULL,NULL,"QVGA 2.4"""""
+57,Masstel Lux 10,NULL,NULL,NULL,"QVGA 2.4"""""
+58,Mobell ,NULL,NULL,NULL,"QVGA 2.8"""""
+59,Mobell ,NULL,NULL,NULL,"QVGA 2.4"""""
+60,Mobell ,NULL,NULL,NULL,"QQVGA 1.77"""""
+61,Mobell F209 4G,NULL,NULL,NULL,"QVGA 2"""""
+62,Mobell F309 4G,NULL,NULL,NULL,"QVGA 2.31"""""
+63,Mobell Rock 4 4G,NULL,NULL,NULL,"QVGA 2.4"""""
+64,Nokia 105,NULL,NULL,NULL,"QQVGA 1.8"""""
+65,Nokia 105 4G Pro,NULL,NULL,NULL,"QQVGA 1.77"""""
+66,Nokia 110 4G Pro,NULL,NULL,NULL,"QQVGA 1.77"""""
+67,Nokia 220 4G,NULL,NULL,NULL,"QVGA 2.8"""""
+68,Nokia 3210 4G,NULL,NULL,NULL,"QVGA 2.4"""""
+69,Nokia HMD 105 4G,NULL,NULL,NULL,"QQVGA 2.4"""""
+70,OPPO A18 4GB/64GB,NULL,NULL,NULL,"HD+ 6.56"""""
+71,OPPO A3,NULL,NULL,NULL,"HD+ 6.67"""""
+72,OPPO A38,NULL,NULL,NULL,"HD+ 6.56"""""
+73,OPPO A3x,NULL,NULL,NULL,"HD+ 6.67"""""
+74,OPPO A58,NULL,NULL,NULL,"Full HD+ 6.72"""""
+75,OPPO A60,NULL,NULL,NULL,"HD+ 6.67"""""
+76,OPPO A78 8GB/256GB,NULL,NULL,NULL,"Full HD+ 6.43"""""
+77,OPPO A79 5G 8GB/256GB,NULL,NULL,NULL,"Full HD+ 6.72"""""
+78,OPPO Find N3 5G 16GB/512GB,NULL,NULL,NULL,"""Quad HD+ (2K+) Chính 7.82"""" & Phụ 6.31"""""""
+79,OPPO Find N3 Flip 5G 12GB/256GB Đen/Vàng đồng,NULL,NULL,NULL,"""Full HD+ Chính 6.8"""" & Phụ 3.26"""""""
+80,OPPO Find X8,NULL,NULL,NULL,
+81,OPPO Find X8 Pro,NULL,NULL,NULL,
+82,OPPO Reno10 Pro+ 5G 12GB/256GB,NULL,NULL,NULL,"1.5K+ 6.74"""""
+83,OPPO Reno11 Pro 5G 12GB/512GB,NULL,NULL,NULL,"Full HD+ 6.7"""""
+84,OPPO Reno12 5G,NULL,NULL,NULL,"Full HD+ 6.7"""""
+85,OPPO Reno12 5G 12GB/256GB Hồng,NULL,NULL,NULL,"Full HD+ 6.7"""""
+86,OPPO Reno12 F 5G,NULL,NULL,NULL,"Full HD+ 6.67"""""
+87,OPPO Reno12 F 8GB/256GB,NULL,NULL,NULL,"Full HD+ 6.67"""""
+88,OPPO Reno12 Pro 5G 12GB/512GB,NULL,NULL,NULL,"Full HD+ 6.7"""""
+89,Samsung Galaxy ,NULL,NULL,NULL,"Full HD+ 6.7"""""
+90,Samsung Galaxy ,NULL,NULL,NULL,"Full HD+ 6.6"""""
+91,Samsung Galaxy ,NULL,NULL,NULL,"Full HD+ 6.7"""""
+92,Samsung Galaxy ,NULL,NULL,NULL,"Full HD+ 6.5"""""
+93,Samsung Galaxy A05s,NULL,NULL,NULL,"Full HD+ 6.7"""""
+94,Samsung Galaxy A06,NULL,NULL,NULL,"HD+ 6.7"""""
+95,Samsung Galaxy A15,NULL,NULL,NULL,"Full HD+ 6.5"""""
+96,Samsung Galaxy A15 5G 8GB/256GB,NULL,NULL,NULL,"Full HD+ 6.5"""""
+97,Samsung Galaxy A16 5GMẫu mới,NULL,NULL,NULL,"Full HD+ 6.7"""""
+98,Samsung Galaxy A16Mẫu mới,NULL,NULL,NULL,"Full HD+ 6.7"""""
+99,Samsung Galaxy A25 5G,NULL,NULL,NULL,"Full HD+ 6.5"""""
+100,Samsung Galaxy A35 5G,NULL,NULL,NULL,"Full HD+ 6.6"""""
+101,Samsung Galaxy A55 5G,NULL,NULL,NULL,"Full HD+ 6.6"""""
+102,Samsung Galaxy S23 ,NULL,NULL,NULL,"Quad HD+ (2K+) 6.8"""""
+103,Samsung Galaxy S23 FE 5G,NULL,NULL,NULL,"Full HD+ 6.4"""""
+104,Samsung Galaxy S24 ,NULL,NULL,NULL,"Quad HD+ (2K+) 6.8"""""
+105,Samsung Galaxy S24 5G,NULL,NULL,NULL,"Full HD+ 6.2"""""
+106,Samsung Galaxy S24 FE 5G,NULL,NULL,NULL,"Full HD+ 6.7"""""
+107,Samsung Galaxy S24+ 5G,NULL,NULL,NULL,"Quad HD+ (2K+) 6.7"""""
+108,Samsung Galaxy Tab S9 5G 12GB/256GB,NULL,NULL,NULL,"Dynamic AMOLED 2X 11"""""
+109,Samsung Galaxy Tab S9 5G 8GB/128GB,NULL,NULL,NULL,"Dynamic AMOLED 2X 11"""""
+110,Samsung Galaxy Tab S9 WiFi 12GB/256GB,NULL,NULL,NULL,"Dynamic AMOLED 2X 11"""""
+111,Samsung Galaxy Tab S9 WiFi 8GB/128GB,NULL,NULL,NULL,"Dynamic AMOLED 2X 11"""""
+112,Samsung Galaxy Z Flip6 5G,NULL,NULL,NULL,"""Full HD+ Chính 6.7"""" & Phụ 3.4"""""""
+113,Samsung Galaxy Z Fold6 5G,NULL,NULL,NULL,"""QXGA+ Chính 7.6"""" & Phụ 6.3"""""""
+114,TCL 406s 4GB/64GB,NULL,NULL,NULL,"HD+ 6.6"""""
+115,TCL Tab 10 Gen 2 4G 4GB/64GB,NULL,NULL,NULL,"IPS LCD 10.36"""""
+116,TCL Tab 10L Gen 2 WiFi 3GB/32GB,NULL,NULL,NULL,"IPS LCD 10.1"""""
+117,Tecno Spark 20C 8GB/128GB,NULL,NULL,NULL,"HD+ 6.56"""""
+118,Tecno Spark GO 1 3GB/64GBMẫu mới,NULL,NULL,NULL,"HD+ 6.67"""""
+119,Tecno Spark Go 2024 3GB/64GB,NULL,NULL,NULL,"HD+ 6.56"""""
+120,Viettel Sumo 4G T2Mẫu mới,NULL,NULL,NULL,"QVGA 2.4"""""
+121,Xiaomi 14 ,NULL,NULL,NULL,"Quad HD+ (2K+) 6.73"""""
+122,Xiaomi 14 5G,NULL,NULL,NULL,"1.5K 6.36"""""
+123,Xiaomi 14T 5G 12GB/512GB XanhMẫu mới,NULL,NULL,NULL,"1.5K 6.67"""""
+124,Xiaomi 14T 5GMẫu mới,NULL,NULL,NULL,"1.5K 6.67"""""
+125,Xiaomi 14T Pro 5GMẫu mới,NULL,NULL,NULL,"1.5K 6.67"""""
+126,Xiaomi POCO ,NULL,NULL,NULL,"Full HD+ 6.79"""""
+127,Xiaomi Redmi 13,NULL,NULL,NULL,"Full HD+ 6.79"""""
+128,Xiaomi Redmi 14C,NULL,NULL,NULL,"HD+ 6.88 """""
+129,Xiaomi Redmi A3,NULL,NULL,NULL,"HD+ 6.71"""""
+130,Xiaomi Redmi Note 13,NULL,NULL,NULL,"Full HD+ 6.67"""""
+131,Xiaomi Redmi Note 13 Pro,NULL,NULL,NULL,"Full HD+ 6.67"""""
+132,Xiaomi Redmi Note 13 Pro 5G,NULL,NULL,NULL,"1.5K 6.67"""""
+133,iPhone 11,NULL,NULL,NULL,"Liquid Retina 6.1"""""
+134,iPhone 12,NULL,NULL,NULL,"Super Retina XDR 6.1"""""
+135,iPhone 13,NULL,NULL,NULL,"Super Retina XDR 6.1"""""
+136,iPhone 14,NULL,NULL,NULL,"Super Retina XDR 6.1"""""
+137,iPhone 14 Plus,NULL,NULL,NULL,"Super Retina XDR 6.7"""""
+138,iPhone 15,NULL,NULL,NULL,"Super Retina XDR 6.1"""""
+139,iPhone 15 Plus,NULL,NULL,NULL,"Super Retina XDR 6.7"""""
+140,iPhone 15 Pro,NULL,NULL,NULL,"Super Retina XDR 6.1"""""
+141,iPhone 15 Pro Max,NULL,NULL,NULL,"Super Retina XDR 6.7"""""
+142,iPhone 16,NULL,NULL,NULL,"Super Retina XDR 6.1"""""
+143,iPhone 16 Plus,NULL,NULL,NULL,"Super Retina XDR 6.7"""""
+144,iPhone 16 Pro,NULL,NULL,NULL,"Super Retina XDR 6.3"""""
+145,iPhone 16 Pro Max,NULL,NULL,NULL,"Super Retina XDR 6.9"""""
+146,realme 12,NULL,NULL,NULL,"Full HD+ 6.67"""""
+147,realme 13+ 5GMẫu mới,NULL,NULL,NULL,"Full HD+ 6.67"""""
+148,realme C53 8GB/256GB,NULL,NULL,NULL,"HD+ 6.74"""""
+149,realme C60 4GB/64GB,NULL,NULL,NULL,"HD+ 6.74"""""
+150,realme C61,NULL,NULL,NULL,"HD+ 6.745 """""
+151,realme C65,NULL,NULL,NULL,"HD+ 6.67"""""
+152,realme C65s,NULL,NULL,NULL,"HD+ 6.745 """""
+153,realme C67,NULL,NULL,NULL,"Full HD+ 6.72"""""
+154,realme Note 50,NULL,NULL,NULL,"HD+ 6.74"""""
+155,realme Note 60,NULL,NULL,NULL,"HD+ 6.745 """""
+156,vivo V30 5G 12GB/512GB,NULL,NULL,NULL,"1.5K 6.78"""""
+157,vivo V30e 5G,NULL,NULL,NULL,"Full HD+ 6.78"""""
+158,vivo V40 Lite 8GB/256GBMẫu mới,NULL,NULL,NULL,"Full HD+ 6.67"""""
+159,vivo Y03,NULL,NULL,NULL,"HD+ 6.56"""""
+160,vivo Y03T 4GB/128GB,NULL,NULL,NULL,"HD+ 6.56"""""
+161,vivo Y100,NULL,NULL,NULL,"Full HD+ 6.67"""""
+162,vivo Y18,NULL,NULL,NULL,"HD+ 6.56"""""
+163,vivo Y19sMẫu mới,NULL,NULL,NULL,"HD+ 6.68 """""
+164,vivo Y28,NULL,NULL,NULL,"HD+ 6.68 """""
+165,vivo Y36 8GB/256GB,NULL,NULL,NULL,"Full HD+ 6.64"""""

@@ -1,0 +1,166 @@
+ID,Name,ProductType,BrandID,OldPrice,CurrentPrice,DiscountPercent,GiftValue,ProductLink
+1,ASUS Zenfone Max ,Laptop,1,,,,,https://www.thegioididong.com/dtdd/asus-zenfone-max-m2
+2,Benco 4G G3Mẫu mới,Laptop,2,,380000.0,,,https://www.thegioididong.com/dtdd/benco-4g-g3
+3,HONOR 200 5G,Laptop,3,12990000.0,12490000.0,3.85,,https://www.thegioididong.com/dtdd/honor-200-12gb-256gb
+4,HONOR 90 5G 12GB/256GB,Laptop,3,,,,,https://www.thegioididong.com/dtdd/honor-90
+5,HONOR X5 Plus 4GB/64GB,Laptop,3,,2490000.0,,,https://www.thegioididong.com/dtdd/honor-x5-plus
+6,HONOR X6a 4GB/128GB,Laptop,3,,,,,https://www.thegioididong.com/dtdd/honor-x6a
+7,HONOR X6b,Laptop,3,3990000.0,3790000.0,5.01,599000.0,https://www.thegioididong.com/dtdd/honor-x6b-6gb-128gb
+8,HONOR X7c 8GB/256GBMẫu mới,Laptop,3,,5490000.0,,990000.0,https://www.thegioididong.com/dtdd/honor-x7c
+9,HONOR X8b 8GB/512GB,Laptop,3,7690000.0,6490000.0,15.6,,https://www.thegioididong.com/dtdd/honor-x8b
+10,Itel it2600,Laptop,4,,490000.0,,,https://www.thegioididong.com/dtdd/itel-it2600
+11,Itel it9211,Laptop,4,,490000.0,,,https://www.thegioididong.com/dtdd/itel-it9211
+12,Itel it9310,Laptop,4,,650000.0,,,https://www.thegioididong.com/dtdd/itel-it9310
+13,Lenovo Gaming LOQ 15ARP9 ,Laptop,5,29490000.0,26990000.0,8.48,,https://www.thegioididong.com/laptop/lenovo-loq-15arp9-r7-83jc0040vn
+14,Lenovo Gaming LOQ 15IAX9 ,Laptop,5,23490000.0,20890000.0,11.07,,https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00dbvn
+15,Lenovo Gaming LOQ 15IAX9 ,Laptop,5,25490000.0,22990000.0,9.81,,https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00d9vn
+16,Lenovo Gaming LOQ 15IAX9 ,Laptop,5,24990000.0,21990000.0,12.0,,https://www.thegioididong.com/laptop/lenovo-loq-gaming-15iax9-i5-83gs000jvn
+17,Lenovo Gaming LOQ 15IRX9 ,Laptop,5,32990000.0,29890000.0,9.4,,https://www.thegioididong.com/laptop/lenovo-loq-15irx9-i7-83dv00d5vn
+18,Lenovo Gaming Legion 5 16IRX9 ,Laptop,5,45990000.0,42990000.0,6.52,,https://www.thegioididong.com/laptop/lenovo-legion-5-16irx9-i7-83dg0051vn
+19,Lenovo Gaming Legion Pro 5 16IRX9 ,Laptop,5,56990000.0,54990000.0,3.51,,https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0046vn
+20,Lenovo Gaming Legion Pro 5 16IRX9 ,Laptop,5,49990000.0,47990000.0,4.0,,https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0047vn
+21,Lenovo Gaming Legion Pro 7 16IRX9H ,Laptop,5,106990000.0,96990000.0,9.35,,https://www.thegioididong.com/laptop/lenovo-legion-pro-7-16irx9h-i9-83de001mvn
+22,Lenovo Gaming Legion Slim 5 16AHP9 ,Laptop,5,44990000.0,41990000.0,6.67,990000.0,https://www.thegioididong.com/laptop/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn
+23,Lenovo IdeaPad 1 15AMN7 ,Laptop,5,12690000.0,9990000.0,21.28,,https://www.thegioididong.com/laptop/lenovo-ideapad-1-15amn7-r5-82vg0061vn
+24,Lenovo IdeaPad Slim 5 14IMH9 ,Laptop,5,28690000.0,27990000.0,2.44,990000.0,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn
+25,Lenovo IdeaPad Slim 5 14IMH9 ,Laptop,5,22690000.0,21990000.0,3.09,990000.0,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn
+26,Lenovo Ideapad 1 15ALC7 ,Laptop,5,14490000.0,12990000.0,10.35,,https://www.thegioididong.com/laptop/lenovo-ideapad-1-15alc7-r7-82r400c1vn
+27,Lenovo Ideapad Slim 3 15AMN8 ,Laptop,5,14390000.0,12490000.0,13.2,,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn
+28,Lenovo Ideapad Slim 3 15IAH8 ,Laptop,5,15990000.0,14490000.0,9.38,,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15iah8-i5-83er00evn
+29,Lenovo Ideapad Slim 3 15IRH8 ,Laptop,5,19490000.0,18990000.0,2.57,,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn
+30,Lenovo Ideapad Slim 5 14IAH8 ,Laptop,5,18490000.0,16790000.0,9.19,,https://www.thegioididong.com/laptop/lenovo-ideapad-5-14iah8-i5-83bf003wvn
+31,Lenovo Ideapad Slim 5 14IMH9 ,Laptop,5,27690000.0,26990000.0,2.53,990000.0,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn
+32,Lenovo Ideapad Slim 5 15IRU9 ,Laptop,5,21690000.0,18490000.0,14.75,,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn
+33,Lenovo Ideapad Slim 5 16IMH9 ,Laptop,5,23690000.0,22990000.0,2.95,990000.0,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn
+34,Lenovo Ideapad Slim 5 16IMH9 ,Laptop,5,27690000.0,26990000.0,2.53,990000.0,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn
+35,Lenovo Tab ,Laptop,5,3790000.0,2790000.0,26.39,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m9-wifi-4gb-64gb
+36,Lenovo Tab ,Laptop,5,5790000.0,4790000.0,17.27,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-wifi?utm_flashsale=1
+37,Lenovo Tab ,Laptop,5,6190000.0,5190000.0,16.16,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-4g
+38,Lenovo Tab ,Laptop,5,5790000.0,5390000.0,6.91,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-4g-4gb-64gb
+39,Lenovo Tab ,Laptop,5,6690000.0,6390000.0,4.48,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-4g-8gb-128gb
+40,Lenovo Tab ,Laptop,5,,4390000.0,,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m9?utm_flashsale=1
+41,Lenovo Tab Plus WiFi 8GB/256GB,Laptop,5,7990000.0,6990000.0,12.52,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-plus-wifi-8gb-256gb
+42,Lenovo ThinkBook 14 ,Laptop,5,27390000.0,26990000.0,1.46,990000.0,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-ultra-7-21mr0072vn
+43,Lenovo ThinkBook 16 G7 ,Laptop,5,23190000.0,22990000.0,0.86,990000.0,https://www.thegioididong.com/laptop/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn
+44,Lenovo ThinkPad E14 Gen 6 ,Laptop,5,28790000.0,27990000.0,2.78,990000.0,https://www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-7-21m7004uvn
+45,Lenovo ThinkPad T14s ,Laptop,5,45690000.0,44990000.0,1.53,,https://www.thegioididong.com/laptop/lenovo-thinkpad-t14s-i7-21f6007xvn
+46,Lenovo Thinkpad X13 ,Laptop,5,45590000.0,44990000.0,1.32,990000.0,https://www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-7-21lu004lvn
+47,Lenovo Thinkpad X13 ,Laptop,5,34990000.0,33990000.0,2.86,990000.0,https://www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-5-21lu004nvn
+48,Lenovo V14 ,Laptop,5,19490000.0,18990000.0,2.57,,https://www.thegioididong.com/laptop/lenovo-v14-core-5-83hd0001vn
+49,Lenovo V14 G4 ,Laptop,5,19990000.0,18990000.0,5.0,,https://www.thegioididong.com/laptop/lenovo-thinkpad-v14-i7-83a00012vn
+50,Lenovo V15 G4 IRU ,Laptop,5,17990000.0,15990000.0,11.12,,https://www.thegioididong.com/laptop/lenovo-v15-g4-iru-i5-83a1000lvn
+51,Lenovo V15 G5 IRL ,Laptop,5,19890000.0,18990000.0,4.52,,https://www.thegioididong.com/laptop/lenovo-v15-g5-irl-core-5-83hf0000vn
+52,Lenovo Yoga Slim 7 14IMH9 ,Laptop,5,31990000.0,31490000.0,1.56,,https://www.thegioididong.com/laptop/lenovo-yoga-7-14imh9-ultra7-83cv001vvn
+53,Masstel Fami 50 4G,Laptop,6,,600000.0,,,https://www.thegioididong.com/dtdd/masstel-fami-50
+54,Masstel Fami 60S 4G,Laptop,6,,700000.0,,,https://www.thegioididong.com/dtdd/masstel-fami-60s
+55,Masstel IZI 10 4G,Laptop,6,,410000.0,,,https://www.thegioididong.com/dtdd/masstel-izi-10
+56,Masstel IZI T6 4G,Laptop,6,,500000.0,,,https://www.thegioididong.com/dtdd/masstel-izi-t6
+57,Masstel Lux 10,Laptop,6,,420000.0,,,https://www.thegioididong.com/dtdd/masstel-lux-10
+58,Mobell ,Laptop,7,,500000.0,,,https://www.thegioididong.com/dtdd/mobell-m239
+59,Mobell ,Laptop,7,,700000.0,,,https://www.thegioididong.com/dtdd/mobell-m539
+60,Mobell ,Laptop,7,,550000.0,,,https://www.thegioididong.com/dtdd/mobell-m331
+61,Mobell F209 4G,Laptop,7,,620000.0,,,https://www.thegioididong.com/dtdd/mobell-f209
+62,Mobell F309 4G,Laptop,7,,760000.0,,,https://www.thegioididong.com/dtdd/mobell-f309
+63,Mobell Rock 4 4G,Laptop,7,,790000.0,,,https://www.thegioididong.com/dtdd/mobell-rock-4
+64,Nokia 105,Laptop,8,,610000.0,,,https://www.thegioididong.com/dtdd/nokia-105-4g
+65,Nokia 105 4G Pro,Laptop,8,,680000.0,,,https://www.thegioididong.com/dtdd/nokia-105-4g-pro
+66,Nokia 110 4G Pro,Laptop,8,,750000.0,,,https://www.thegioididong.com/dtdd/nokia-110-4g-pro
+67,Nokia 220 4G,Laptop,8,,990000.0,,,https://www.thegioididong.com/dtdd/nokia-220-4g
+68,Nokia 3210 4G,Laptop,8,,1590000.0,,,https://www.thegioididong.com/dtdd/nokia-3210-4g
+69,Nokia HMD 105 4G,Laptop,8,,650000.0,,,https://www.thegioididong.com/dtdd/nokia-hmd-105-4g
+70,OPPO A18 4GB/64GB,Laptop,9,,3290000.0,,100000.0,https://www.thegioididong.com/dtdd/oppo-a18
+71,OPPO A3,Laptop,9,,4990000.0,,100000.0,https://www.thegioididong.com/dtdd/oppo-a3-6gb-128gb
+72,OPPO A38,Laptop,9,,4490000.0,,100000.0,https://www.thegioididong.com/dtdd/oppo-a38-6gb
+73,OPPO A3x,Laptop,9,,3490000.0,,100000.0,https://www.thegioididong.com/dtdd/oppo-a3x-4gb-64gb
+74,OPPO A58,Laptop,9,,5490000.0,,,https://www.thegioididong.com/dtdd/oppo-a58-4g
+75,OPPO A60,Laptop,9,,5490000.0,,200000.0,https://www.thegioididong.com/dtdd/oppo-a60-128gb
+76,OPPO A78 8GB/256GB,Laptop,9,,6990000.0,,,https://www.thegioididong.com/dtdd/oppo-a78
+77,OPPO A79 5G 8GB/256GB,Laptop,9,,7490000.0,,,https://www.thegioididong.com/dtdd/oppo-a79-5g
+78,OPPO Find N3 5G 16GB/512GB,Laptop,9,44990000.0,41990000.0,6.67,,https://www.thegioididong.com/dtdd/oppo-find-n3
+79,OPPO Find N3 Flip 5G 12GB/256GB Đen/Vàng đồng,Laptop,9,,22990000.0,,,https://www.thegioididong.com/dtdd/oppo-find-n3-flip
+80,OPPO Find X8,Laptop,9,,,,,https://www.thegioididong.com/dtdd/oppo-find-x8
+81,OPPO Find X8 Pro,Laptop,9,,,,,https://www.thegioididong.com/dtdd/oppo-find-x8-pro
+82,OPPO Reno10 Pro+ 5G 12GB/256GB,Laptop,9,,19990000.0,,,https://www.thegioididong.com/dtdd/oppo-reno10-pro-plus
+83,OPPO Reno11 Pro 5G 12GB/512GB,Laptop,9,16990000.0,11990000.0,29.43,,https://www.thegioididong.com/dtdd/oppo-reno11-pro?utm_flashsale=1
+84,OPPO Reno12 5G,Laptop,9,,12990000.0,,500000.0,https://www.thegioididong.com/dtdd/oppo-reno12-5g-12gb-256gb
+85,OPPO Reno12 5G 12GB/256GB Hồng,Laptop,9,,12990000.0,,500000.0,https://www.thegioididong.com/dtdd/oppo-reno12-5g-12gb-256gb-hong
+86,OPPO Reno12 F 5G,Laptop,9,,9990000.0,,300000.0,https://www.thegioididong.com/dtdd/oppo-reno12-f-5g-12gb-256gb
+87,OPPO Reno12 F 8GB/256GB,Laptop,9,,8490000.0,,300000.0,https://www.thegioididong.com/dtdd/oppo-reno12-f-4g-8gb-256gb
+88,OPPO Reno12 Pro 5G 12GB/512GB,Laptop,9,,18990000.0,,500000.0,https://www.thegioididong.com/dtdd/oppo-reno12-pro
+89,Samsung Galaxy ,Laptop,10,,8790000.0,,550000.0,https://www.thegioididong.com/dtdd/samsung-galaxy-m35-5g
+90,Samsung Galaxy ,Laptop,10,8990000.0,7990000.0,11.12,,https://www.thegioididong.com/dtdd/samsung-galaxy-m54?utm_flashsale=1
+91,Samsung Galaxy ,Laptop,10,11190000.0,10190000.0,8.94,,https://www.thegioididong.com/dtdd/samsung-galaxy-m55-5g-12gb-256gb
+92,Samsung Galaxy ,Laptop,10,,4690000.0,,,https://www.thegioididong.com/dtdd/samsung-galaxy-m15-5g-4gb
+93,Samsung Galaxy A05s,Laptop,10,4490000.0,4090000.0,8.91,,https://www.thegioididong.com/dtdd/samsung-galaxy-a05s-6gb
+94,Samsung Galaxy A06,Laptop,10,,3190000.0,,550000.0,https://www.thegioididong.com/dtdd/samsung-galaxy-a06-4gb-64gb
+95,Samsung Galaxy A15,Laptop,10,5590000.0,4990000.0,10.73,,https://www.thegioididong.com/dtdd/samsung-galaxy-a15-256gb
+96,Samsung Galaxy A15 5G 8GB/256GB,Laptop,10,6290000.0,5390000.0,14.31,,https://www.thegioididong.com/dtdd/samsung-galaxy-a15-5g
+97,Samsung Galaxy A16 5GMẫu mới,Laptop,10,,6990000.0,,550000.0,https://www.thegioididong.com/dtdd/samsung-galaxy-a16-5g
+98,Samsung Galaxy A16Mẫu mới,Laptop,10,,5890000.0,,550000.0,https://www.thegioididong.com/dtdd/samsung-galaxy-a16-8gb-128gb
+99,Samsung Galaxy A25 5G,Laptop,10,6990000.0,6490000.0,7.15,,https://www.thegioididong.com/dtdd/samsung-galaxy-a25-8gb
+100,Samsung Galaxy A35 5G,Laptop,10,9290000.0,8790000.0,5.38,,https://www.thegioididong.com/dtdd/samsung-galaxy-a35-5g
+101,Samsung Galaxy A55 5G,Laptop,10,11990000.0,11490000.0,4.17,,https://www.thegioididong.com/dtdd/samsung-galaxy-a55-5g
+102,Samsung Galaxy S23 ,Laptop,10,24990000.0,20990000.0,16.01,,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-ultra?utm_flashsale=1
+103,Samsung Galaxy S23 FE 5G,Laptop,10,14890000.0,10890000.0,26.86,,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-fe
+104,Samsung Galaxy S24 ,Laptop,10,33990000.0,29990000.0,11.77,,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-ultra-5g
+105,Samsung Galaxy S24 5G,Laptop,10,22990000.0,17990000.0,21.75,,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-256gb-5g
+106,Samsung Galaxy S24 FE 5G,Laptop,10,,16990000.0,,,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-fe
+107,Samsung Galaxy S24+ 5G,Laptop,10,26990000.0,23990000.0,11.12,,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-plus-5g
+108,Samsung Galaxy Tab S9 5G 12GB/256GB,Laptop,10,24990000.0,19990000.0,20.01,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9-5g-256gb
+109,Samsung Galaxy Tab S9 5G 8GB/128GB,Laptop,10,22990000.0,16990000.0,26.1,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9-5g-128gb
+110,Samsung Galaxy Tab S9 WiFi 12GB/256GB,Laptop,10,21990000.0,17990000.0,18.19,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9-wifi-256gb
+111,Samsung Galaxy Tab S9 WiFi 8GB/128GB,Laptop,10,19990000.0,14490000.0,27.51,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9
+112,Samsung Galaxy Z Flip6 5G,Laptop,10,28990000.0,26990000.0,6.9,,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip6
+113,Samsung Galaxy Z Fold6 5G,Laptop,10,43990000.0,41990000.0,4.55,4990000.0,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold6
+114,TCL 406s 4GB/64GB,Laptop,11,,2190000.0,,,https://www.thegioididong.com/dtdd/tcl-406s
+115,TCL Tab 10 Gen 2 4G 4GB/64GB,Laptop,11,3790000.0,3090000.0,18.47,,https://www.thegioididong.com/may-tinh-bang/tcl-tab-10-gen-2
+116,TCL Tab 10L Gen 2 WiFi 3GB/32GB,Laptop,11,2290000.0,1990000.0,13.1,,https://www.thegioididong.com/may-tinh-bang/tcl-tab-10l-gen-2
+117,Tecno Spark 20C 8GB/128GB,Laptop,12,3190000.0,2490000.0,21.94,,https://www.thegioididong.com/dtdd/tecno-spark-20c
+118,Tecno Spark GO 1 3GB/64GBMẫu mới,Laptop,12,2190000.0,1990000.0,9.13,,https://www.thegioididong.com/dtdd/tecno-spark-go-1
+119,Tecno Spark Go 2024 3GB/64GB,Laptop,12,,1890000.0,,,https://www.thegioididong.com/dtdd/tecno-spark-go-2024
+120,Viettel Sumo 4G T2Mẫu mới,Laptop,13,,550000.0,,,https://www.thegioididong.com/dtdd/viettel-sumo-4g-t2
+121,Xiaomi 14 ,Laptop,14,32990000.0,29990000.0,9.09,,https://www.thegioididong.com/dtdd/xiaomi-14-ultra
+122,Xiaomi 14 5G,Laptop,14,24490000.0,21490000.0,12.25,,https://www.thegioididong.com/dtdd/xiaomi-14
+123,Xiaomi 14T 5G 12GB/512GB XanhMẫu mới,Laptop,14,,13990000.0,,1000000.0,https://www.thegioididong.com/dtdd/xiaomi-14t-5g-12gb-512gb-xanh
+124,Xiaomi 14T 5GMẫu mới,Laptop,14,,12990000.0,,1000000.0,https://www.thegioididong.com/dtdd/xiaomi-14t-5g
+125,Xiaomi 14T Pro 5GMẫu mới,Laptop,14,,16990000.0,,1500000.0,https://www.thegioididong.com/dtdd/xiaomi-14t-pro-5g-12gb-256gb
+126,Xiaomi POCO ,Laptop,14,4290000.0,3890000.0,9.32,,https://www.thegioididong.com/dtdd/xiaomi-poco-m6?utm_flashsale=1
+127,Xiaomi Redmi 13,Laptop,14,,4290000.0,,200000.0,https://www.thegioididong.com/dtdd/xiaomi-redmi-13-6gb-128gb
+128,Xiaomi Redmi 14C,Laptop,14,3690000.0,3490000.0,5.42,,https://www.thegioididong.com/dtdd/xiaomi-redmi-14c-6gb-128gb?utm_flashsale=1
+129,Xiaomi Redmi A3,Laptop,14,,2490000.0,,100000.0,https://www.thegioididong.com/dtdd/xiaomi-redmi-a3?utm_flashsale=1
+130,Xiaomi Redmi Note 13,Laptop,14,5290000.0,4690000.0,11.34,,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-13
+131,Xiaomi Redmi Note 13 Pro,Laptop,14,7290000.0,6490000.0,10.97,,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-13-pro
+132,Xiaomi Redmi Note 13 Pro 5G,Laptop,14,9490000.0,8490000.0,10.54,,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-13-pro-5g
+133,iPhone 11,Laptop,15,11790000.0,8990000.0,23.75,,https://www.thegioididong.com/dtdd/iphone-11
+134,iPhone 12,Laptop,15,13090000.0,11590000.0,11.46,,https://www.thegioididong.com/dtdd/iphone-12
+135,iPhone 13,Laptop,15,17790000.0,13590000.0,23.61,,https://www.thegioididong.com/dtdd/iphone-13
+136,iPhone 14,Laptop,15,19090000.0,17390000.0,8.91,,https://www.thegioididong.com/dtdd/iphone-14
+137,iPhone 14 Plus,Laptop,15,22290000.0,20090000.0,9.87,,https://www.thegioididong.com/dtdd/iphone-14-plus
+138,iPhone 15,Laptop,15,22990000.0,19790000.0,13.92,,https://www.thegioididong.com/dtdd/iphone-15
+139,iPhone 15 Plus,Laptop,15,25990000.0,22790000.0,12.31,,https://www.thegioididong.com/dtdd/iphone-15-plus
+140,iPhone 15 Pro,Laptop,15,31990000.0,28490000.0,10.94,,https://www.thegioididong.com/dtdd/iphone-15-pro-256gb
+141,iPhone 15 Pro Max,Laptop,15,34990000.0,29590000.0,15.43,,https://www.thegioididong.com/dtdd/iphone-15-pro-max
+142,iPhone 16,Laptop,15,22990000.0,22290000.0,3.04,,https://www.thegioididong.com/dtdd/iphone-16
+143,iPhone 16 Plus,Laptop,15,,25990000.0,,,https://www.thegioididong.com/dtdd/iphone-16-plus
+144,iPhone 16 Pro,Laptop,15,,28990000.0,,,https://www.thegioididong.com/dtdd/iphone-16-pro
+145,iPhone 16 Pro Max,Laptop,15,,34990000.0,,,https://www.thegioididong.com/dtdd/iphone-16-pro-max
+146,realme 12,Laptop,16,,7990000.0,,200000.0,https://www.thegioididong.com/dtdd/realme-12
+147,realme 13+ 5GMẫu mới,Laptop,16,9490000.0,9290000.0,2.11,,https://www.thegioididong.com/dtdd/realme-13-plus-5g-8gb-256gb
+148,realme C53 8GB/256GB,Laptop,16,4790000.0,3850000.0,19.62,,https://www.thegioididong.com/dtdd/realme-c53-8gb
+149,realme C60 4GB/64GB,Laptop,16,,2790000.0,,,https://www.thegioididong.com/dtdd/realme-c60
+150,realme C61,Laptop,16,,3590000.0,,,https://www.thegioididong.com/dtdd/realme-c61-4gb-128gb
+151,realme C65,Laptop,16,4790000.0,4090000.0,14.61,,https://www.thegioididong.com/dtdd/realme-c65
+152,realme C65s,Laptop,16,,4290000.0,,200000.0,https://www.thegioididong.com/dtdd/realme-c65s
+153,realme C67,Laptop,16,5290000.0,4390000.0,17.01,,https://www.thegioididong.com/dtdd/realme-c67
+154,realme Note 50,Laptop,16,2490000.0,2390000.0,4.02,200000.0,https://www.thegioididong.com/dtdd/realme-note-50-64gb
+155,realme Note 60,Laptop,16,,3090000.0,,100000.0,https://www.thegioididong.com/dtdd/realme-note-60-4gb-64gb
+156,vivo V30 5G 12GB/512GB,Laptop,17,13990000.0,12990000.0,7.15,500000.0,https://www.thegioididong.com/dtdd/vivo-v30
+157,vivo V30e 5G,Laptop,17,,10490000.0,,1000000.0,https://www.thegioididong.com/dtdd/vivo-v30e-12gb
+158,vivo V40 Lite 8GB/256GBMẫu mới,Laptop,17,8490000.0,8190000.0,3.53,200000.0,https://www.thegioididong.com/dtdd/vivo-v40-lite-8gb-256gb?utm_flashsale=1
+159,vivo Y03,Laptop,17,,3290000.0,,,https://www.thegioididong.com/dtdd/vivo-y03
+160,vivo Y03T 4GB/128GB,Laptop,17,,3290000.0,,,https://www.thegioididong.com/dtdd/vivo-y03t-4gb-128gb
+161,vivo Y100,Laptop,17,7690000.0,6490000.0,15.6,,https://www.thegioididong.com/dtdd/vivo-y100
+162,vivo Y18,Laptop,17,,3990000.0,,200000.0,https://www.thegioididong.com/dtdd/vivo-y18-4gb-128gb
+163,vivo Y19sMẫu mới,Laptop,17,4290000.0,4190000.0,2.33,,https://www.thegioididong.com/dtdd/vivo-y19s-6gb-128gb
+164,vivo Y28,Laptop,17,,5790000.0,,100000.0,https://www.thegioididong.com/dtdd/vivo-y28
+165,vivo Y36 8GB/256GB,Laptop,17,6190000.0,5890000.0,4.85,,https://www.thegioididong.com/dtdd/vivo-y36
