@@ -18,7 +18,7 @@ This project involves scraping data from a website and storing it in JSON and CS
   pip install -r requirements
 ```
 
-Start MySQL containers
+Start MySQL container
 ``` bash
   docker compose up -d
 ```
